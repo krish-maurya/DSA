@@ -1,15 +1,3 @@
-## 📚 Table of Contents
-
-- [Armstrong Number](#armstrong-number-3-digit)
-- [All Divisors](#all-divisors-of-a-number)
-- [Prime Number Check](#prime-number-check)
-- [GCD Brute Force](#gcd--brute-force-method)
-- [GCD Euclidean](#gcd--euclidean-algorithm-optimized)
-- [Compilation & Execution](#-how-to-compile-and-run)
-- [Summary](#-complexity-summary)
-
----
-
 ## 1️⃣ Armstrong Number (3-Digit)
 
 Checks whether a number is an Armstrong number.
