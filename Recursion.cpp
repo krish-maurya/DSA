@@ -3,20 +3,16 @@ using namespace std;
 
 void f(int i, int num)
 {
-    if (i<1)
-    {
+    if (i > num)
         return;
-    }
-    else
-    {
-        f(i - 1, num);
-        cout << "krish" << endl;
-    }
+
+    f(i + 1, num);
+    cout << i << endl;
 }
 
 int main()
 {
     int n;
     cin >> n;
-    f(n, n);
+    f(1, n);
 }
